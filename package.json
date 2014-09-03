@@ -1,0 +1,14 @@
+{
+  "name": "monkey",
+  "version": "0.0.0",
+  "description": "",
+  "main": "async.js",
+  "scripts": {
+    "test": "tape test/test.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "tape": "^2.14.0"
+  }
+}
